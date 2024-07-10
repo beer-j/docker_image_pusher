@@ -5,4 +5,4 @@ xhofe/alist:latest
 photoprism/photoprism:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
---platform=linux/arm64 privoce/vocechat-server
+linux/arm64 privoce/vocechat-server
